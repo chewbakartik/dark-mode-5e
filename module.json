@@ -32,10 +32,10 @@
       }
     }]
   },
-  "manifest": "https://github.com/ZeroXNoxus/dark-mode-5e/releases/download/latest/module.json",
-  "url": "https://github.com/ZeroXNoxus/dark-mode-5e",
-  "download": "https://github.com/ZeroXNoxus/dark-mode-5e/archive/refs/tags/latest.zip",
-  "readme": "https://github.com/ZeroXNoxus/dark-mode-5e/blob/latest/README.md",
-  "bugs": "https://github.com/ZeroXNoxus/dark-mode-5e/issues",
-  "changelog": "https://github.com/ZeroXNoxus/dark-mode-5e/releases"
+  "manifest": "https://github.com/chewbakartik/dark-mode-5e/releases/download/latest/module.json",
+  "url": "https://github.com/chewbakartik/dark-mode-5e",
+  "download": "https://github.com/chewbakartik/dark-mode-5e/archive/refs/tags/latest.zip",
+  "readme": "https://github.com/chewbakartik/dark-mode-5e/blob/latest/README.md",
+  "bugs": "https://github.com/chewbakartik/dark-mode-5e/issues",
+  "changelog": "https://github.com/chewbakartik/dark-mode-5e/releases"
 }
